@@ -1,3 +1,6 @@
-# 06 Export
-Do not produce final media-ordered Word or HTML while image collection remains unconfirmed; can provide provisional outline if labelled. If user expressly elects to proceed with incomplete media, mark provisional and state count.
-Create editable DOCX with REAL provided images embedded when possible; retain filename and captions, interleave with text. Use {视频} on its own line for actual/planned videos; don't fabricate thumbnails. Separate publishable text from non-publish editorial notes: sources, photo count and status, missing details, rights, publication gates. HTML is offline preview only; cannot claim official WeChat compatibility or push to draft box.
+# 06 Export — DOCX and preview with verified media
+Prepare true editable DOCX with actual project photographs inserted where available, original filenames preserved in caption/asset ledger, and literal standalone {视频} placeholders for videos not embedded. Never fake image/video content. Optional HTML is local preview only.
+
+Before final export verify: project documents read; online public check attempted if available and permitted; key uncertain/contradictory claims asked; photos actually inspected individually; total photos confirmed or user approves a labelled provisional incomplete version; **article prose, outline and captions revised to match confirmed images**. Otherwise stop final export and return to media and writing review.
+
+Place non-publication section after clearly separated publishable draft: traceable sources, media completeness N/M, uncertainties, image-to-text change log, publicity rights, and missing items. If cannot create DOCX, state that honestly.

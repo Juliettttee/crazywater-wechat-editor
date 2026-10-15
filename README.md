@@ -1,21 +1,23 @@
-# CRAZYWATER WeChat Editor v5.5 — 先检索、逐张读图与素材完整性
+# CRAZYWATER WeChat Editor v5.6
 
-面向 CRAZYWATER 水景项目的微信公众号写作工作流。保留八篇历史案例的编辑经验、事实核查、媒体排版与 Word/HTML 工作流。
+以真实项目资料为依据的公众号编辑工作流：公开资料核查、采集表解析、全量图片理解、品牌叙事、事实审稿和 Word/HTML 交付。
 
-## 豆包 / DeepSeek（不需要安装）
-打开 [豆包-DeepSeek使用](./豆包-DeepSeek使用/)：
+## 豆包 / DeepSeek — 一个入口
+1. [下载空白项目采集表（Word）](./豆包-DeepSeek使用/项目竣工公众号推文信息采集表-标准简版.docx)，填入已知资料，未知项写“待确认”。注意：仓库中的 DOCX 是简化整理版，具体填写以公司原始表格为准。
+2. 打开 [公众号编辑一键复制完整版](./豆包-DeepSeek使用/CRAZYWATER公众号编辑_一键复制完整版_v5.4.txt)，复制全文到新的 AI 对话。
+3. 上传填好的表、设计说明、原始图片和视频。AI 先核查公开资料，再问缺失或冲突问题；逐张分析已上传图片并确认是否已经发完。
+4. **全部图片确认后，AI 必须重审和修订文章大纲、正文、图片说明与排列顺序**，不能仅沿用上传图片前的猜想。
+5. 确认大纲后输出图文稿及不可发表的审稿说明。人工审查技术与客户/摄影许可后发布。
 
-- **推荐默认方式：** [方式二｜填好采集表直接出稿](./豆包-DeepSeek使用/方式二_填好采集表直接出稿_推荐.txt)：填完公司原始《项目竣工公众号推文信息采集表》后，和照片、视频、技术资料一起上传。AI 不再重复问已填写的信息，只针对影响发布的重要缺口追问。
-- **备用方式：** [方式一｜提问式](./豆包-DeepSeek使用/方式一_提问式_资料不全时.txt)：资料不齐，由 AI 每轮最多三个问题引导整理。
-- [简明使用指南](./豆包-DeepSeek使用/使用指南.md)。
+没有表格时同一指令会进入提问式，每轮最多3题。不要查找旧版的“方式一/方式二”文件。
+
+[图文操作指南](./豆包-DeepSeek使用/使用指南.md)
 
 ## Codex / Claude Code
-入口：[crazywater-wechat-master/SKILL.md](./crazywater-wechat-master/SKILL.md)。保留 modules、references、templates 和 tools 目录。
+从 [crazywater-wechat-master/SKILL.md](./crazywater-wechat-master/SKILL.md) 开始；保留整个 `crazywater-wechat-master/modules` 和 `references` 结构。重点规则在 [RESEARCH_AND_MEDIA_PROTOCOL.md](./crazywater-wechat-master/references/RESEARCH_AND_MEDIA_PROTOCOL.md)。本仓库已更新，但用户尚未本地安装；GitHub 更新不会自动安装。
 
-## 重要说明
-- 本仓库包含按原始采集表字段整理的可填写空白 Word 版本；原始项目填写内容仍须经内部审批。
-- 已填写的表是最重要的资料来源，但关键事实仍需核实；不可编造技术、业主或 CRAZYWATER 工作范围。
-- 图片、施工图、设计资料、客户资料与版权文件未经授权不得公开上传到 GitHub。
-- 图文按发布顺序排列；视频用 `{视频}`；Word/HTML 能否真正生成由使用的平台能力决定。
-- HTML 是本地预览工具，不是已经完成微信编辑器兼容测试；没有微信公众号草稿箱 API。
-- 未授予开源许可证。
+## 八篇案例库
+[历史编辑案例](./crazywater-wechat-master/references/HISTORICAL_CASEBOOK.md)用于学习结构，不可沿用历史项目未经验证的数据。默认填写表直出、资料不全提问式，均须先公开检索（有工具且用户允许）、标记争议、逐张看图，确认全部图片后调整正文。
+
+## 输出边界
+图片和视频不得虚构；视频以 `{视频}` 独立占位。DOCX 若实际支持则提供可编辑文件；HTML 工具仅离线预览，并不等于微信公众号编辑器兼容验证或发布。未获权不得公开客户内部文件及素材。开源许可证尚未设置。

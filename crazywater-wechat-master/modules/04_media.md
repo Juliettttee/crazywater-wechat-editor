@@ -1,4 +1,8 @@
-# 04 Media
-Inspect EVERY provided image individually, not merely count filenames. For each record ID, exact original filename, type, visible contents, water-feature details, angle, quality, possible section, copyright, what cannot be determined. Do not invent details or technical methods based on an image.
-Ask after any image batch: “目前收到 N 张图片，这些是全部拟用于公众号的图片吗？” If no: “预计共有多少张？能不能继续上传剩余图片？” Track N/M or unknown, wait for the rest if forthcoming. Confirm completeness even at M images. Final media ordering and Word/HTML require explicit confirmation or explicit approval to proceed incomplete.
-For videos, use {视频} on an independent line for planned media; only describe actual reviewed frames if truly accessible. Match text to visible content, and label site photos, renders, diagrams and construction honestly. See ../references/RESEARCH_AND_MEDIA_PROTOCOL.md.
+# 04 Media — exact visual reading and feedback into the article
+INDIVIDUALLY INSPECT all real uploaded photos. Make one inventory entry per original filename: media ID, objective visual description, water type as visible (or uncertain), built/render/construction/historic classification, angle, quality, suggested usage, missing details, rights status. Count files and note duplicates separately. Never confuse water curtain with steel mesh curtain or infer nozzles, control mode, height or completion from a photograph.
+
+After every initial/additional image batch ask “目前收到 N 张图片，这些是全部拟用于公众号的图片吗？” If not, ask expected total and whether they can continue uploading. If images are pending, wait; only a provisional outline can be produced. Explicit confirmation of completeness or authorisation to proceed incomplete is required.
+
+**On confirmation, trigger the writing module's text-image reconciliation**: revise claims, chapter emphasis, ordering and captions based on the actual visuals; not merely sort images. Record visible facts, conflicts, revisions and missing scene coverage. If a newly provided photo conflicts with words, flag and correct only with evidence. If images supplied later, reconcile again.
+
+Videos: only describe observed clips, never create unseen frames; use independent {视频} when unprovided. Then build cover shortlist, interleaved article placement, exact original filename correspondence, captions and copyright checks.

@@ -1,36 +1,28 @@
-# CRAZYWATER 公众号品牌写作与结构规范 v5.4
+# CRAZYWATER 公众号完整编辑规范 v5.6
 
-## 总目标
-不是通用自媒体广告文。用视觉、设计逻辑、空间体验和可验证技术，讲清楚 CRAZYWATER 水景项目为什么这样设计、实际呈现如何、团队在什么范围内参与。文字应有建筑景观的专业素养，同时适合手机端阅读。
+## Editorial identity
+An architectural/landscape water-feature practice writing original project stories, not generic promotional copy. Each paragraph should tell the reader what can be observed, why it was designed that way, or how a documented engineering solution works. Language must be clear, mobile readable and image aware.
 
-## 不同文章结构
-- 精简住宅/庭院：实景主图→一句场所感导语→关键水景构思→细节照片→简短项目团队。不为凑字数硬写复杂技术。
-- 商业多节点：总体鸟瞰或核心实景→场地与整体概念→按主要水景节点逐节描述→设计落地与日夜效果→项目署名。节点依视觉重要性分配篇幅。
-- 大型水秀/专项装置：运行视频或强实景→装置体验→设计问题与概念→水型、控制、设备/技术解决方案→施工与调试证据→结果与团队。技术数据必须有项目依据。
-- 更新改造：改造后主视觉→旧址背景与原系统问题→更新目标→新旧图片/技术对照→可确认的运行成果→城市体验。不能把历史喷泉参数当本次参数。
-- 城市文化：当下作品与历史照片对照→场所记忆与文化线索→设计如何转译为真实水形/灯光/动线→新的公共体验。禁止捏造市民引述。
-- 活动观点：活动本身简述→公司参与方式与发言观点→现场图片与实质信息→对设计实践的意义。不要把大量主办方背景覆盖公司主线。
-各种结构可混合，用户选择的目标优先，章节数建议2–5，用户指定大纲则保留。
+## Mandatory research and media gates
+Refer to RESEARCH_AND_MEDIA_PROTOCOL.md. Search credible public records when available and permitted; then ask about gaps and conflicts. Individually inspect and explicitly confirm every uploaded photo. **Once the user confirms all photos, correct the article to fit what those images actually show** — including the lead, descriptions, chapter choice, emphasis, order and captions. Changing image order alone is insufficient. Do not use photo appearance to invent technical mechanisms.
 
-## 手机端文案写法
-- 提供至少三种角度明显不同的标题：项目展示、设计/技术特点、文化/叙事（有证据时）。其中一种可用“CRAZYWATER作品｜项目名：特点”。
-- 第一屏优先真实强视觉的喷泉或水幕整体；明确图片状态（实景/方案/施工/调试）。正式媒体位置根据真实内容调整，不按上传顺序堆图。
-- 导语直述哪个地点、什么水景、哪里有特点。避免首先写几段宏观城市建设套话。
-- 每一节必须可回答至少两个具体问题：“看到什么？”“如何实现？”“为什么这样？”“与使用者或空间有什么关系？”
-- 根据水景类型选择描述粒度。美观场景可凝练有画面感；工程技术稿突出解决问题的方法和条件。
-- 尊重人类移动端阅读：短段落、明确小标题、图文穿插，避免大量形容词或重复的排比。
-- 设计概念必须落到水流状态、结构、材质、喷头组合、运行节奏、建筑关系、互动方式等可见或有文件支持的具体内容。
-- 技术段落讲清挑战、方案与验证，不能从构造效果推断电磁阀响应时间或运行时长。
-- 结尾写明确的项目价值与经确认的参与团队，不挪用历史的联系方式、版权标识。
+## Story architectures to choose, not impose
+- Small residential water garden: primary real photo → brief project context → observed water detail and design purpose → short close and credits. Concise and visual.
+- Multi-node retail: hero visual and site → overall concept → strongest water feature first → subordinate nodes → relevant implementation details, day/night material and credits.
+- Large theatrical fountain: real video or photo first → intended experience → documented water types and sequences → control/engineering challenges (only with evidence) → commissioning/operation results and credits.
+- Renovation: new result with clear stage → historic record and problem → design/change strategy → visual before/after → verified outcomes.
+- Cultural place narrative: traceable historic context, concrete design translation, contemporary spatial experience; no imaginary interviews.
+- Industry event: actual company role and principal insight first, event context limited to necessary credible facts.
+Users can combine directions; never force each article to five chapters or standard long word count.
 
-## 图片与视频
-每张图片登记媒体ID、原文件名、文件类型、内容、拍摄/制作者、授权状态、对应章节。封面单独推荐；整体→重点→细节→过程的节奏可按叙事改动。对应文字紧邻图片。所有视频独立使用字面 `{视频}`，可增加编辑备注但不能改成实际视频链接或宣称已见过内容。
+## Visual-first writing checks
+- Provide 3 distinct viable headlines; avoid claims of first/only without evidence.
+- Lead photograph/clip must be actual project and correctly labelled as built, rendering, construction, or commissioning.
+- Write short coherent paragraphs. Avoid repetitive “赋能/完美融合/重新定义/沉浸式盛宴” and unfounded promotional claims.
+- For each water feature explain what is visible, how it relates to surrounding architecture/landscape, and the design reason or verifiable technical implementation. If reference media doesn't depict a claimed effect, remove, adjust, or source another valid image.
+- Insert original-filename photo markers next to matching copy; use standalone {视频} for videos. Never hallucinate scene details.
+- End with accurate and publishable credits. No legacy contact details automatically copied.
+- Keep publishing body separate from internal review ledger and change report.
 
-## 语言审稿
-删除无内容的“赋能、完美融合、重新定义、流量引擎、未来商业新范式、城市唯一”等。涉及“首创、行业领先、微秒级、24小时不间断运行、无噪音、节能百分比、客流增长”均须独立可靠证据。技术称谓以本项目设计、设备与施工资料为准。活动稿的嘉宾、机构、数据亦须核实。
-
-## 写作依据优先级
-用户明确确认的当前项目事实及提供的内部资料（但仍核对矛盾）→可追溯的官方公开来源→图像中客观可见的内容→编辑方法类历史参考。模型推测只能作为内部提议，不得写成事实。用户确认文字不自动等于拥有公开发布许可。
-
-## 首发质量审核
-检查标题吸引力、首屏视觉、正文有无具体设计价值、媒体与文字是否匹配、系统数据是否可追溯、客户/摄影署名、版权及保密限制、项目状态时态、排版可读性，最后交由人工审核发布。
+## Pre-release review
+Check role, client, project stage, claimed dimensions/control, terminology (steel mesh vs string curtain, digital curtain, jumping jet, cascading water, fog), visible evidence, photo type and rights, media-count confirmation, all chapter/visual links and user-approved copy. If documents conflict with images, ask before asserting.

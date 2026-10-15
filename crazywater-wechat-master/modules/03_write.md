@@ -1,2 +1,10 @@
-# 03 Writing
-必须先阅读 ../references/BRAND_EDITORIAL_STANDARD.md 和 HISTORICAL_CASEBOOK.md，根据当前项目类型选择最相关的历史编辑规律。正文强调具体场景、设计概念如何落地、技术事实与照片如何对应，禁止套用旧文参数或空话。先提出三个标题、2–5节大纲和媒体顺序，经确认后写稿；用户明确要求直接写则直接执行。多节点按主次分配篇幅。施工/调试、效果图和建成实景必须区分。段落便于手机阅读。
+# 03 Writing — grounded in confirmed visuals
+Read BRAND_EDITORIAL_STANDARD.md, HISTORICAL_CASEBOOK.md and RESEARCH_AND_MEDIA_PROTOCOL.md. Choose only 1–3 historically relevant article structures. Never transfer old-project technical data.
+
+**Text ⇄ Image reconciliation is mandatory.** Before full-media confirmation, drafts/outlines are PROVISIONAL. After user confirms that ALL intended images are uploaded, compare EVERY photo and its evidence with the current outline and each descriptive passage:
+1. Does the actual photo show the claimed water feature, appearance, spatial relation, lighting and phase? Is it actual built work, render, construction or historic?
+2. Rework chapter structure and content emphasis based on the visual material (not just change the picture order). Replace generic or contradicted water-feature descriptions with precise visible facts, but don't infer engineering mechanisms from images.
+3. Remove unsupported or absent scenes, flag missing views or technical proofs; match media P IDs and captions to revised prose.
+4. Preserve user-approved constraints and facts. When previously approved prose conflicts with a new image, explain the conflict, propose the smallest factual correction, and request necessary confirmation; don't silently overwrite reliable technical claims.
+
+Provide three distinct headlines and outline as appropriate; once confirmed write suitable mobile-readable sections. After any later image upload repeat reconciliation of affected text and captions. Final Word/HTML cannot be marked final unless images are confirmed complete or user has expressly approved incomplete deliverable.
