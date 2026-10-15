@@ -1,2 +1,3 @@
 # 06 Export
-优先输出实际可编辑 DOCX，封面/标题/正文与各媒体按发布顺序编排；收到真实原图时直接嵌入且保留原始文件名，未取得图像时用【图片P01｜原文件名】占位，动态素材独立写 {视频}。末尾单独添加不发布的编辑审阅区：主张来源、待确认事项、摄影及客户授权、缺失媒体、发布风险、修改记录。可选本地HTML预览，不能承诺微信编辑器100%兼容；不擅自推送草稿箱。无文件输出能力时准确说明。
+Do not produce final media-ordered Word or HTML while image collection remains unconfirmed; can provide provisional outline if labelled. If user expressly elects to proceed with incomplete media, mark provisional and state count.
+Create editable DOCX with REAL provided images embedded when possible; retain filename and captions, interleave with text. Use {视频} on its own line for actual/planned videos; don't fabricate thumbnails. Separate publishable text from non-publish editorial notes: sources, photo count and status, missing details, rights, publication gates. HTML is offline preview only; cannot claim official WeChat compatibility or push to draft box.

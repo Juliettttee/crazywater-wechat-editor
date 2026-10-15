@@ -1,2 +1,4 @@
 # 04 Media
-先建立媒体清单，保留文件名；照片按整体→重点→细节→效果的实际叙事选择，可打破上传顺序。标注实景/效果图/施工图/历史照片及时间；禁止用AI效果图冒充实景。图片写【图片P01｜原文件名】，视频用独立一行 {视频}，说明建议内容但不虚构视频画面。检查摄影署名与版权。
+Inspect EVERY provided image individually, not merely count filenames. For each record ID, exact original filename, type, visible contents, water-feature details, angle, quality, possible section, copyright, what cannot be determined. Do not invent details or technical methods based on an image.
+Ask after any image batch: “目前收到 N 张图片，这些是全部拟用于公众号的图片吗？” If no: “预计共有多少张？能不能继续上传剩余图片？” Track N/M or unknown, wait for the rest if forthcoming. Confirm completeness even at M images. Final media ordering and Word/HTML require explicit confirmation or explicit approval to proceed incomplete.
+For videos, use {视频} on an independent line for planned media; only describe actual reviewed frames if truly accessible. Match text to visible content, and label site photos, renders, diagrams and construction honestly. See ../references/RESEARCH_AND_MEDIA_PROTOCOL.md.

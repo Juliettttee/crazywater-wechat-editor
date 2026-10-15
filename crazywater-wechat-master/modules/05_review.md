@@ -1,2 +1,2 @@
-# 05 Quality Review
-审查结构节奏、品牌中文文风、水景技术真实性、事实出处、肖像/版权及发布限制。标记极端词“唯一/100%/24h/微秒级/完全无声”及无法证实的市场影响。具体修改提供变化清单；不可悄悄改变核实过的名称和参数。
+# 05 Review
+Check every project statement has a traceable source; use internet to verify public facts when available, ask about missing or uncertain items. Verify EACH image caption against the actual image, never infer equipment from appearance. Audit media count and explicit completeness status; flag provisional output. Review permissions, project phase, technical claims, company responsibilities, credits, repetition and unsupported superlatives. Maintain separate editorial review section.

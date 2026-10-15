@@ -1,2 +1,2 @@
-# 02 Intake and Interview
-默认优先读取已填写原始Word采集表完整内容。建立每个字段的状态：已知/冲突/仅需内部确认/可选缺失。只问当前阻塞工作且无法公开核实的最多3个问题；资料完整时不要形式化访谈。未交表时按五部分逐轮引导。用户选择的类型、篇幅、大纲保留并锁定。不强行凑足两个设计亮点。
+# 02 Interview
+Completed DOCX first: fully read intake form, parse known fields and avoid repeating them. Search public information first; then ask at most 3 essential unresolved questions per round, including conflicting public facts. If the user sends images, first inspect individually and ask whether all intended images have been sent. When not all: ask expected total and if they can upload the rest. Do not finalise unless complete or the user explicitly approves an incomplete draft. See ../references/RESEARCH_AND_MEDIA_PROTOCOL.md.

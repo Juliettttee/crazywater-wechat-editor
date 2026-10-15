@@ -1,2 +1,2 @@
 # 01 Research
-先清点素材及原名，读取表单及设计文件；检索可靠公开来源并记录来源URL/日期。区分“用户确认、项目文件、公开查证、视觉可见、推断、待确认”。公开资料不能证明公司工作范围或客户发布授权。拒绝虚构尺寸、设备、运营效果。
+Read supplied sources, then SEARCH PUBLIC WEB FIRST when available and permitted. Cite project-owner, architect, landscape firm, government and reliable design media. Identify verified vs conflicting vs missing. Ask user after search for anything missing or uncertain, particularly company contractual role, unpublished dimensions and permissions. Historic site facts are not automatically facts about the current project. Record claim, URL or internal document, date, verification and publication clearance in ledger. Follow references/RESEARCH_AND_MEDIA_PROTOCOL.md.
