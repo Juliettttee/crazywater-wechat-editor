@@ -1,0 +1,10 @@
+section,field,value,source,status,follow_up_priority
+basic,project_name,,,,
+basic,location,,,,
+basic,company_role,,,,
+basic,project_phase,,,,
+direction,writing_goals,,,,
+direction,word_count,,,,
+concept,design_idea,,,,
+highlight,key_feature_1,,,,
+media,photo_permission,,,,
