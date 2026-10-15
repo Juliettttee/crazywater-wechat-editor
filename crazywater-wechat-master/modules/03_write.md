@@ -1,10 +1,6 @@
-# 03 Writing — grounded in confirmed visuals
-Read BRAND_EDITORIAL_STANDARD.md, HISTORICAL_CASEBOOK.md and RESEARCH_AND_MEDIA_PROTOCOL.md. Choose only 1–3 historically relevant article structures. Never transfer old-project technical data.
-
-**Text ⇄ Image reconciliation is mandatory.** Before full-media confirmation, drafts/outlines are PROVISIONAL. After user confirms that ALL intended images are uploaded, compare EVERY photo and its evidence with the current outline and each descriptive passage:
-1. Does the actual photo show the claimed water feature, appearance, spatial relation, lighting and phase? Is it actual built work, render, construction or historic?
-2. Rework chapter structure and content emphasis based on the visual material (not just change the picture order). Replace generic or contradicted water-feature descriptions with precise visible facts, but don't infer engineering mechanisms from images.
-3. Remove unsupported or absent scenes, flag missing views or technical proofs; match media P IDs and captions to revised prose.
-4. Preserve user-approved constraints and facts. When previously approved prose conflicts with a new image, explain the conflict, propose the smallest factual correction, and request necessary confirmation; don't silently overwrite reliable technical claims.
-
-Provide three distinct headlines and outline as appropriate; once confirmed write suitable mobile-readable sections. After any later image upload repeat reconciliation of affected text and captions. Final Word/HTML cannot be marked final unless images are confirmed complete or user has expressly approved incomplete deliverable.
+# 03 Writing — grounded in confirmed visuals and detailed historical cases
+1. Read references/HISTORICAL_CASEBOOK.md to choose relevant historical articles; then OPEN the corresponding full analysis files in references/cases/ (not just the summary index). Refer to 1–3 appropriate structures, never apply every article to all projects.
+2. Read BRAND_EDITORIAL_STANDARD.md and RESEARCH_AND_MEDIA_PROTOCOL.md. Historical stories are editorial references only, not technical data for a new project.
+3. Before photo set is complete, outlines and copy are provisional. Once user confirms all media sent, reread each actual photo and compare every relevant paragraph and caption; UPDATE prose, chapter emphasis, media order and captions to reflect actual image evidence. Merely rearranging images is insufficient.
+4. If photos conflict with validated technical documentation, ask for clarification; do not overrule documented systems based on appearance alone. Lock previously agreed length, topic and verifiable project facts, explaining necessary changes in editorial notes.
+5. Present three headline alternatives, story arc, 2–5 chapters where useful, media plan; wait for outline approval unless user requests direct draft. Local correction should not rewrite unrelated approved text.

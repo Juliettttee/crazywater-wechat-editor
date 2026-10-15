@@ -1,28 +1,25 @@
-# CRAZYWATER 公众号完整编辑规范 v5.6
+# CRAZYWATER 公众号完整编辑规范 v6.0
+
+## Required source reading
+First understand current project attachments and available public project sources. For company house style do **not** stop at the eight-row index: open the relevant dedicated case study file(s) under references/cases/. Each case discloses exactly what historical source material was supplied and what was not. Source gaps must remain visible.
 
 ## Editorial identity
 An architectural/landscape water-feature practice writing original project stories, not generic promotional copy. Each paragraph should tell the reader what can be observed, why it was designed that way, or how a documented engineering solution works. Language must be clear, mobile readable and image aware.
 
 ## Mandatory research and media gates
-Refer to RESEARCH_AND_MEDIA_PROTOCOL.md. Search credible public records when available and permitted; then ask about gaps and conflicts. Individually inspect and explicitly confirm every uploaded photo. **Once the user confirms all photos, correct the article to fit what those images actually show** — including the lead, descriptions, chapter choice, emphasis, order and captions. Changing image order alone is insufficient. Do not use photo appearance to invent technical mechanisms.
+Follow RESEARCH_AND_MEDIA_PROTOCOL.md. Search reliable public records when available and permitted; then ask about gaps and conflicts. Inspect every uploaded image individually and ask if entire set is provided. **Once all pictures are confirmed, modify the prose, lead, descriptions, chapters and captions to match real photos**; adjusting image order alone is not adequate. Visual appearance cannot establish concealed technical mechanisms.
 
-## Story architectures to choose, not impose
-- Small residential water garden: primary real photo → brief project context → observed water detail and design purpose → short close and credits. Concise and visual.
-- Multi-node retail: hero visual and site → overall concept → strongest water feature first → subordinate nodes → relevant implementation details, day/night material and credits.
-- Large theatrical fountain: real video or photo first → intended experience → documented water types and sequences → control/engineering challenges (only with evidence) → commissioning/operation results and credits.
-- Renovation: new result with clear stage → historic record and problem → design/change strategy → visual before/after → verified outcomes.
-- Cultural place narrative: traceable historic context, concrete design translation, contemporary spatial experience; no imaginary interviews.
-- Industry event: actual company role and principal insight first, event context limited to necessary credible facts.
-Users can combine directions; never force each article to five chapters or standard long word count.
+## Flexible narratives
+- Residential: primary real photo → compact place context → specific water detail and design purpose → credits.
+- Multi-node retail: site/hero → overall concept → strongest feature → subordinate nodes → implementation details/credits.
+- Large water shows: actual video/photo → experience → documented water movements and controls → documented challenges → verified results/credits.
+- Renewal: current result → historic condition/problem → design decisions → before/after evidence → current phase/outcomes.
+- Cultural: sourced local memory → tangible design translation → public space experience, no fictional quotes.
+- Industry event: company's concrete participation and ideas first → essential verifiable event context.
+Mix freely and honour users’ preselected editorial directions.
 
-## Visual-first writing checks
-- Provide 3 distinct viable headlines; avoid claims of first/only without evidence.
-- Lead photograph/clip must be actual project and correctly labelled as built, rendering, construction, or commissioning.
-- Write short coherent paragraphs. Avoid repetitive “赋能/完美融合/重新定义/沉浸式盛宴” and unfounded promotional claims.
-- For each water feature explain what is visible, how it relates to surrounding architecture/landscape, and the design reason or verifiable technical implementation. If reference media doesn't depict a claimed effect, remove, adjust, or source another valid image.
-- Insert original-filename photo markers next to matching copy; use standalone {视频} for videos. Never hallucinate scene details.
-- End with accurate and publishable credits. No legacy contact details automatically copied.
-- Keep publishing body separate from internal review ledger and change report.
+## Detailed composition
+Give three substantively different viable titles. Lead with an actual project visual, distinguishing built photo, design rendering, construction or commissioning. Avoid general city marketing intros before showing actual water features. Short paragraphs and headings suit mobile reading; each node must explain visible water shape, spatial context and confirmed design/engineering rationale. Adapt narrative and technical density to scope. Embed photo markers with exact names next to matching paragraphs; video gets standalone {视频}. Never invent unseen imagery, credits or specifications.
 
-## Pre-release review
-Check role, client, project stage, claimed dimensions/control, terminology (steel mesh vs string curtain, digital curtain, jumping jet, cascading water, fog), visible evidence, photo type and rights, media-count confirmation, all chapter/visual links and user-approved copy. If documents conflict with images, ask before asserting.
+## Evidence and style review
+Do not repeat “赋能、完美融合、重新定义、城市唯一、微秒级、24小时运行”等 unsupported formulas; verify all numbers and technical terms. For brand learning, select 1–3 case studies and articulate what will and will not transfer. Do not use historical dimensions/roles as new-project facts. Keep publication text separate from editor-only ledger, permissions and image-based revision notes. Human owner must approve final publication.

@@ -2,7 +2,7 @@
 name: crazywater-wechat-master
 description: CRAZYWATER 微信公众号项目编辑主控。自动识别已填写采集表或零散素材，依据八篇真实历史文章的编辑经验组织项目内容、核查事实、编排图片和视频，并交付可编辑 Word 与可选 HTML 预览。
 ---
-# CRAZYWATER WeChat Editor v5.5 — Codex Master
+# CRAZYWATER WeChat Editor v6.0 — Codex Master
 
 ## 最高优先级：先检索，再提问；先逐张读图，再编排
 所有任务模式均必须阅读 `references/RESEARCH_AND_MEDIA_PROTOCOL.md`。提供资料后，先读取原件、再联网检索可公开核实的项目事实；检索不到、来源冲突或不确定的内容才追问，不自行补造。无法联网必须明确说明。
@@ -18,7 +18,7 @@ description: CRAZYWATER 微信公众号项目编辑主控。自动识别已填�
 用户明确提出“直接写稿”“仅修改某节”“只检查素材”“仅审稿”“只生成Word”时优先遵循指定任务，不插入无关确认步骤。发布授权和未核实的专业事实仍需把关。
 
 ## 核心参考（按需读取）
-1. `references/HISTORICAL_CASEBOOK.md`：八篇公众号历史案例与适用写法；不得照抄旧项目内容。
+1. `references/HISTORICAL_CASEBOOK.md`：只是八篇案例索引；**必须按项目类型进一步阅读 `references/cases/` 中1–3份逐篇深度档案**。不能只看索引声称已学习案例。不得照抄旧项目内容或参数。
 2. `references/BRAND_EDITORIAL_STANDARD.md`：必读，标题、首屏、章节、文字、专业术语、图片节奏及文章类型。
 3. `references/INTAKE_FORM_MAPPING.md`：与原始 Word 表逐字段映射。
 4. `references/EDITORIAL_CHECKLIST.md`：发表前审稿与事实风险。
