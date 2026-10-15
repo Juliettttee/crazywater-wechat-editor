@@ -1,20 +1,21 @@
-# CRAZYWATER WeChat Editor v5.1 — 采集表联动版
+# CRAZYWATER WeChat Editor v5.2 — 采集表优先双入口
 
-这是针对 CRAZYWATER 水景项目的微信公众号编辑工作流，整合八篇历史案例的写作方法、交互式项目访谈、事实核查、图文编排及 Word/HTML 双格式交付。
+面向 CRAZYWATER 水景项目的微信公众号写作工作流。保留八篇历史案例的编辑经验、事实核查、媒体排版与 Word/HTML 工作流。
 
-## 普通同事（DeepSeek / 豆包）
-复制 `同事使用/一键提问入口_v5.1.txt` 全文，和项目介绍、项目图片、设计文件一起发送。AI 会先归纳已有资料，最多每轮追问三个关键问题，并引导选择写作重点、篇幅与章节。
+## 豆包 / DeepSeek（不需要安装）
+打开 [豆包-DeepSeek使用](./豆包-DeepSeek使用/)：
+
+- **推荐默认方式：** [方式二｜填好采集表直接出稿](./豆包-DeepSeek使用/方式二_填好采集表直接出稿_推荐.txt)：填完公司原始《项目竣工公众号推文信息采集表》后，和照片、视频、技术资料一起上传。AI 不再重复问已填写的信息，只针对影响发布的重要缺口追问。
+- **备用方式：** [方式一｜提问式](./豆包-DeepSeek使用/方式一_提问式_资料不全时.txt)：资料不齐，由 AI 每轮最多三个问题引导整理。
+- [简明使用指南](./豆包-DeepSeek使用/使用指南.md)。
 
 ## Codex / Claude Code
-入口文件：`crazywater-wechat-master/SKILL.md`。请保留 `modules/`、`references/`、`templates/`、`tools/` 目录结构。
+入口：[crazywater-wechat-master/SKILL.md](./crazywater-wechat-master/SKILL.md)。保留 modules、references、templates 和 tools 目录。
 
-## 使用边界
-- 原始公司信息采集表不包含在公开仓库中，只保留字段映射规范。
-- 旧文章只能用于学习叙事和编辑结构，不可复制历史技术参数。
-- 公开可查不意味着已获得客户授权发布；必须检查照片版权与对外发布许可。
-- 不能因项目尚在施工或调试，就写成已经正式竣工。
-- 微信 HTML 是本地预览，不保证真实微信编辑器完全兼容；暂无微信草稿箱 API 集成。
-- 未授予开源使用许可。如需允许第三方修改和再分发，须由权利方选择 LICENSE。
-
-## Release
-v5.1 — project intake form integration; retains v5.0 editorial workflow.
+## 重要说明
+- 本公开仓库**不包含原始公司采集表 DOCX**。使用公司内部提供的原始 Word 表，不用仓库中的 CSV 模板替代。
+- 已填写的表是最重要的资料来源，但关键事实仍需核实；不可编造技术、业主或 CRAZYWATER 工作范围。
+- 图片、施工图、设计资料、客户资料与版权文件未经授权不得公开上传到 GitHub。
+- 图文按发布顺序排列；视频用 `{视频}`；Word/HTML 能否真正生成由使用的平台能力决定。
+- HTML 是本地预览工具，不是已经完成微信编辑器兼容测试；没有微信公众号草稿箱 API。
+- 未授予开源许可证。
