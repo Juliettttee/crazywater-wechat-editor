@@ -1,4 +1,4 @@
-# CRAZYWATER WeChat Editor v5.6
+# CRAZYWATER WeChat Editor v6.0
 
 以真实项目资料为依据的公众号编辑工作流：公开资料核查、采集表解析、全量图片理解、品牌叙事、事实审稿和 Word/HTML 交付。
 
@@ -16,8 +16,10 @@
 ## Codex / Claude Code
 从 [crazywater-wechat-master/SKILL.md](./crazywater-wechat-master/SKILL.md) 开始；保留整个 `crazywater-wechat-master/modules` 和 `references` 结构。重点规则在 [RESEARCH_AND_MEDIA_PROTOCOL.md](./crazywater-wechat-master/references/RESEARCH_AND_MEDIA_PROTOCOL.md)。本仓库已更新，但用户尚未本地安装；GitHub 更新不会自动安装。
 
-## 八篇案例库
-[历史编辑案例](./crazywater-wechat-master/references/HISTORICAL_CASEBOOK.md)用于学习结构，不可沿用历史项目未经验证的数据。默认填写表直出、资料不全提问式，均须先公开检索（有工具且用户允许）、标记争议、逐张看图，确认全部图片后调整正文。
+## 八篇深度案例库
+[案例索引](./crazywater-wechat-master/references/HISTORICAL_CASEBOOK.md)只是入口，真正的逐篇档案位于 [references/cases](./crazywater-wechat-master/references/cases/)。Codex 会按新项目的文章目标选择、读取相应的完整分析档案，不再只根据八行概括模仿。部分历史案例仅提供了截图或局部文字，档案明确标注资料不完整；没有把原始完整公众号和图片镜像到 Public GitHub。
+
+**案例档案内容**：已见历史图文顺序、标题和分章节叙事、图像位置、技术说明密度、值得借鉴的节奏、原稿可改善处，以及新项目适用边界。默认填写表直出、资料不全提问式，均须先公开检索（有工具且用户允许）、标记争议、逐张看图，确认全部图片后调整正文。
 
 ## 输出边界
 图片和视频不得虚构；视频以 `{视频}` 独立占位。DOCX 若实际支持则提供可编辑文件；HTML 工具仅离线预览，并不等于微信公众号编辑器兼容验证或发布。未获权不得公开客户内部文件及素材。开源许可证尚未设置。
